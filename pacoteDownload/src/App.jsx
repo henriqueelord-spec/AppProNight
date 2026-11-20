@@ -791,4 +791,4 @@ export default function App() {
     </div>
   );
 }
-//npm run dev - para rodar o codigo para inicio emediato //
+//npm run dev - para rodar o codigo //
